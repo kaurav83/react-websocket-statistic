@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.main {
+  margin: 20px;
+}
+
+.statistic-btn {
+  margin-left: 20px;
+}
+
+.time-calculation.param-block__text {
+  margin-top: 20px;
+}
+
+.default-text {
+  font-weight: 500;
+}
+
+.param-block {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.param-block__text {
+  font-weight: 900;
+  margin: 0;
+}
+
+.param-block__value {
+  margin-left: 10px;
+}
